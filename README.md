@@ -1,4 +1,4 @@
-### 🌟 Hello there, I'm Riya Ahlawat. 👋
+# 🌟 Hello there, I'm Riya Ahlawat. 👋
 
 ## 💡 Passionate about exploring tech and fostering innovation. 🔍
 
