@@ -2,32 +2,16 @@
 
 #### Tech explorer seeking to create real-life impact through innovative projects. 🔥
 - 💡 Pursuing BTech CSE-AI'26 @ IGDTUW, Delhi.
-
-- ⚡ Proficient in:
-  - C++
-  - Python
-  - Java
-  - HTML
-  - CSS
-  - JavaScript
-  - SQL
-  - and more.
-
-- 🔭 Ask me about:
-  - Data Structures and Algorithms
-  - Frontend Web Development
-  - Data Science
-
+  
+- ⚡ Proficient in C++, Python, Java, HTML, CSS, Javascript, and more.
+  
+- 🔭 Ask me about Data Structures and Algorithms, Frontend Web Development, and Data Science.
+  
 - 🌐 Open to collaborating with developers skilled in the mentioned tech stack.
 
-- 🌱 Currently diving into:
-  - Machine Learning
-  - Backend Development
-  - Gen AI
-  - and more
+- 🌱 Currently diving into Machine Learning, Backend Development, Gen AI, and more.
 
-
-### Let's Connect:
+### Let's Connect: ✨
 🔗 [LinkedIn](https://www.linkedin.com/in/tech-explorer-riyaaa/)
 🔗 [Portfolio Website](https://tech-explorer-riyaaa.github.io/Riya-Ahlawat-Developer-Portfolio/)
 🚀 Open to discussions on tech, my journey, or random chit-chat on the Gen AI revolution!
