@@ -2,6 +2,8 @@
 
 ## 💡 Passionate about exploring tech and fostering innovation. 🔍
 
+## About Me : 
+
 ### - BTech CSE-AI Sophomore @ IGDTUW, Delhi
 
 ### - Skills: 
