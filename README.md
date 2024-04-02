@@ -2,16 +2,18 @@
 
 ## 💡 Passionate about exploring tech and fostering innovation. 🔍
 
-## About Me : 
+## 🔭 About Me : 
 
-### - BTech CSE-AI Sophomore @ IGDTUW, Delhi
+### - 😄 BTech CSE-AI Sophomore @ IGDTUW, Delhi ⚡
 
 ### - Skills: 
 💻 C++, Python, Java, SQL, HTML, CSS, JavaScript.
+
 🛠️ Web Dev, ML, DL, Flutter, Figma - UI/UX.
 
 ### - Projects: 
 💡 Love hackathons and collaborative projects.
+
 🎯 Currently diving into Backend dev and sharpening DSA skills.
 
 ### - Collaboration: 
@@ -19,7 +21,7 @@
 
 ### Let's Connect:
 🔗 [LinkedIn](https://www.linkedin.com/in/tech-explorer-riyaaa/)
-🔗 [Portfolio Website](<Portfolio Website>)
+🔗 [Portfolio Website](https://tech-explorer-riyaaa.github.io/Riya-Ahlawat-Developer-Portfolio/)
 🚀 Open to discussions on tech, my journey, or the Gen AI revolution!
 
 
@@ -28,12 +30,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+-  I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  Pronouns: ...
+-  Fun fact: ...
 -->
