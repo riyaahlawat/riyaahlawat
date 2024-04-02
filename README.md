@@ -1,15 +1,31 @@
 # 🌟 Hello there, I'm Riya Ahlawat. 👋
 
-Tech explorer seeking to create real-life impact through innovative projects. 🔥
-💡 Pursuing BTech CSE-AI'26 @ IGDTUW, Delhi.
+#### Tech explorer seeking to create real-life impact through innovative projects. 🔥
+- 💡 Pursuing BTech CSE-AI'26 @ IGDTUW, Delhi.
 
--⚡ Proficient in C++, Python, Java, HTML, CSS, Javascript, SQL and more.
+- ⚡ Proficient in:
+  - C++
+  - Python
+  - Java
+  - HTML
+  - CSS
+  - JavaScript
+  - SQL
+  - and more.
 
--🔭 Ask me about Data Structures and Algorithms, Frontend Web Development, and Data Science.
+- 🔭 Ask me about:
+  - Data Structures and Algorithms
+  - Frontend Web Development
+  - Data Science
 
-🌐 Open to collaborating with developers skilled in the mentioned tech stack.
+- 🌐 Open to collaborating with developers skilled in the mentioned tech stack.
 
-🌱 Currently diving into Machine Learning, Backend Development, Gen AI, and more.
+- 🌱 Currently diving into:
+  - Machine Learning
+  - Backend Development
+  - Gen AI
+  - and more
+
 
 ### Let's Connect:
 🔗 [LinkedIn](https://www.linkedin.com/in/tech-explorer-riyaaa/)
