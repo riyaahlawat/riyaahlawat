@@ -1,20 +1,20 @@
 # 🌟 Hello there, I'm Riya Ahlawat. 👋
 
-## 💡 Passionate about exploring tech and fostering innovation. 🔍
+### 💡 I am Passionate about exploring tech and fostering innovation. 🔍
 
-## 🔭 About Me : 
+### 🔭 About Me : 
 
-### - 😄 BTech CSE-AI Sophomore @ IGDTUW, Delhi ⚡
+#### - 😄 BTech CSE-AI Sophomore @ IGDTUW, Delhi ⚡
 
-### - Skills: 
+#### - Technical Skills: 
 💻 C++, Python, Java, SQL, HTML, CSS, JavaScript.
 
-🛠️ Web Dev, ML, DL, Flutter, Figma - UI/UX.
+🛠️ Web Development, Machine Learning, Figma - UI/UX.
 
-### - Projects: 
+#### - Projects: 
 💡 Love hackathons and collaborative projects.
 
-🎯 Currently diving into Backend dev and sharpening DSA skills.
+🎯 Currently diving into Backend development, Machine Learning and sharpening DSA skills.
 
 ### - Collaboration: 
 🤝 Seeking diverse projects to contribute and learn.
@@ -22,7 +22,9 @@
 ### Let's Connect:
 🔗 [LinkedIn](https://www.linkedin.com/in/tech-explorer-riyaaa/)
 🔗 [Portfolio Website](https://tech-explorer-riyaaa.github.io/Riya-Ahlawat-Developer-Portfolio/)
-🚀 Open to discussions on tech, my journey, or the Gen AI revolution!
+🚀 Open to discussions on tech, my journey, or random chit-chat on the Gen AI revolution!
+
+# Let's Connect!
 
 
 <!--
