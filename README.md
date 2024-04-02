@@ -2,7 +2,7 @@
 
 ### "One man's 'magic' is another man's engineering." - Robert A. Heinlein
 
-#### Tech-enthusiast passionate about learning and craeting innovative projects. 🔥
+#### Tech-enthusiast passionate about learning and developing innovative projects. 🔥
 
 - 💡 BTech CSE-AI Sophomore @ IGDTUW, Delhi.
   
