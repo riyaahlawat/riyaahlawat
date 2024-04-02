@@ -22,7 +22,7 @@
 
 ### 🔗 [Developer Portfolio Website](https://tech-explorer-riyaaa.github.io/Riya-Ahlawat-Developer-Portfolio/)
 
-🚀 Open to discussions on tech, my journey, or random chit-chat on the Gen AI revolution!
+🚀 Open to discussions on tech, my journey, or random chit-chat on the Gen AI revolution! Thank you.
 
 <!--
 **tech-explorer-riyaaa/tech-explorer-riyaaa** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
