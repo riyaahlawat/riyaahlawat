@@ -12,8 +12,11 @@
 - 🌱 Currently diving into Machine Learning, Backend Development, Gen AI, and more.
 
 ### Let's Connect: ✨
+
 🔗 [LinkedIn](https://www.linkedin.com/in/tech-explorer-riyaaa/)
+
 🔗 [Portfolio Website](https://tech-explorer-riyaaa.github.io/Riya-Ahlawat-Developer-Portfolio/)
+
 🚀 Open to discussions on tech, my journey, or random chit-chat on the Gen AI revolution!
 
 <!--
