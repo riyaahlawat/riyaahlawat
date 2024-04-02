@@ -4,12 +4,11 @@
 
 ### 🔭 About Me : 
 
-#### - 😄 BTech CSE-AI Sophomore @ IGDTUW, Delhi ⚡
+####     - 😄 BTech CSE-AI Sophomore @ IGDTUW, Delhi ⚡
 
-#### - Technical Skills: 
-💻 C++, Python, Java, SQL, HTML, CSS, JavaScript.
+####     - Languages: 💻 C++, Python, Java, SQL, HTML, CSS, JavaScript.
 
-🛠️ Web Development, Machine Learning, Figma - UI/UX.
+####     - Stacks: 🛠️ Web Development, Machine Learning, UI/UX.
 
 #### - Projects: 
 💡 Love hackathons and collaborative projects.
