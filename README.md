@@ -1,6 +1,6 @@
-# 🌟 Hello there, I am Riya Ahlawat. 👋
+# Hello there, I am Riya Ahlawat. 👋
 
-### "Strive for perfection in everything you do. Take the best that exists and make it better. When it does not exist, design it." - Sir Henry Royce
+### "Strive for perfection in everything you do. Take the best that exists and make it better. When it does not exist, design it." - Sir Henry Royce 🌟
 
 #### Tech-enthusiast passionate about learning and developing innovative projects. 🔥
 
