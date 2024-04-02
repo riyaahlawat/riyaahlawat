@@ -1,8 +1,7 @@
 # 🌟 Hello there, I'm Riya Ahlawat. 👋
 
 Tech explorer seeking to create real-life impact through innovative projects. 🔥
-
--💡 Pursuing BTech CSE-AI'26 @ IGDTUW, Delhi.
+💡 Pursuing BTech CSE-AI'26 @ IGDTUW, Delhi.
 
 -⚡ Proficient in C++, Python, Java, HTML, CSS, Javascript, SQL and more.
 
@@ -12,24 +11,10 @@ Tech explorer seeking to create real-life impact through innovative projects. �
 
 🌱 Currently diving into Machine Learning, Backend Development, Gen AI, and more.
 
-## Let's connect and innovate together! ✨
-🔗 [LinkedIn](ttps://www.linkedin.com/in/tech-explorer-riyaaa/))
-/*
-#### - Projects: 
-💡 Love hackathons and collaborative projects.
-
-🎯 Currently diving into Backend development, Machine Learning and sharpening DSA skills.
-
-### - Collaboration: 
-🤝 Seeking diverse projects to contribute and learn.
-
 ### Let's Connect:
 🔗 [LinkedIn](https://www.linkedin.com/in/tech-explorer-riyaaa/)
 🔗 [Portfolio Website](https://tech-explorer-riyaaa.github.io/Riya-Ahlawat-Developer-Portfolio/)
 🚀 Open to discussions on tech, my journey, or random chit-chat on the Gen AI revolution!
-
-# Let's Connect!
-*/
 
 <!--
 **tech-explorer-riyaaa/tech-explorer-riyaaa** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
