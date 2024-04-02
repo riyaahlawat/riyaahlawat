@@ -15,7 +15,7 @@
 
 ## Let's Connect: ✨
 
-### 🔗 [LinkedIn](https://www.linkedin.com/in/tech-explorer-riyaaa/)
+### 🔗 [LinkedIn Profile](https://www.linkedin.com/in/tech-explorer-riyaaa/)
 
 ### 🔗 [Developer Portfolio Website](https://tech-explorer-riyaaa.github.io/Riya-Ahlawat-Developer-Portfolio/)
 
