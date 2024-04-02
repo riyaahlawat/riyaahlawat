@@ -1,6 +1,6 @@
 # 🌟 Hello there, I'm Riya Ahlawat. 👋
 
-### "One man's 'magic' is another man's engineering." - Robert A. Heinlein
+### "Strive for perfection in everything you do. Take the best that exists and make it better. When it does not exist, design it." - Sir Henry Royce
 
 #### Tech-enthusiast passionate about learning and developing innovative projects. 🔥
 
