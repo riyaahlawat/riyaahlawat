@@ -13,7 +13,7 @@
   
 - 🌐 Open to collaborating with developers skilled in the mentioned tech stack.
 
-### Let's Connect: ✨
+## Let's Connect: ✨
 
 🔗 [LinkedIn](https://www.linkedin.com/in/tech-explorer-riyaaa/)
 
