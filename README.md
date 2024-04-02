@@ -1,18 +1,19 @@
 # 🌟 Hello there, I'm Riya Ahlawat. 👋
 
-🔥 Hey there! I'm a tech enthusiast passionate about learning and innovation. 🔥
+Tech explorer seeking to create real-life impact through innovative projects. 🔥
 
-💡 Pursuing BTech CSE-AI'26 at IGDTUW, Delhi.
+-💡 Pursuing BTech CSE-AI'26 @ IGDTUW, Delhi.
 
-⚡ Proficient in C++, Python, Java, HTML, CSS, MySQL, and more.
+-⚡ Proficient in C++, Python, Java, HTML, CSS, Javascript, SQL and more.
 
-🔭 Ask me about Data Structures and Algorithms, Frontend Web Development, and Data Science.
+-🔭 Ask me about Data Structures and Algorithms, Frontend Web Development, and Data Science.
 
 🌐 Open to collaborating with developers skilled in the mentioned tech stack.
 
-🌱 Currently diving into Machine Learning, AWS, Django, and more.
+🌱 Currently diving into Machine Learning, Backend Development, Gen AI, and more.
 
-Let's connect and innovate together! 🔗 [LinkedIn](<LinkedIn Profile>)
+## Let's connect and innovate together! ✨
+🔗 [LinkedIn](ttps://www.linkedin.com/in/tech-explorer-riyaaa/))
 /*
 #### - Projects: 
 💡 Love hackathons and collaborative projects.
@@ -31,7 +32,7 @@ Let's connect and innovate together! 🔗 [LinkedIn](<LinkedIn Profile>)
 */
 
 <!--
-**tech-explorer-riyaaa/tech-explorer-riyaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**tech-explorer-riyaaa/tech-explorer-riyaaa** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
