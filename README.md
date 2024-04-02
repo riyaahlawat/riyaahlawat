@@ -1,6 +1,8 @@
 # 🌟 Hello there, I'm Riya Ahlawat. 👋
 
-#### Tech explorer seeking to create real-life impact through innovative projects. 🔥
+### "One man's 'magic' is another man's engineering." - Robert A. Heinlein
+#### Tech-enthusiast passionate about learning and craeting innovative projects. 🔥
+
 - 💡 BTech CSE-AI Sophomore @ IGDTUW, Delhi.
   
 - ⚡ Proficient in C++, Python, Java, HTML, CSS, Javascript, and more.
