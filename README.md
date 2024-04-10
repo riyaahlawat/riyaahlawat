@@ -1,4 +1,4 @@
-# Hello there, I am Riya Ahlawat. 👋
+## Hello there, I am Riya Ahlawat. 👋
 
 ### "Strive for perfection in everything you do. Take the best that exists and make it better. When it does not exist, design it." - Sir Henry Royce 🌟
 
@@ -18,9 +18,9 @@
 
 ## Let's Connect: ✨
 
-### 🔗 [LinkedIn Profile](https://www.linkedin.com/in/tech-explorer-riyaaa/)
+### 🔗 [LinkedIn Profile](https://www.linkedin.com/in/tech-explorer-riyaaa/) 🌟
 
-### 🔗 [Developer Portfolio Website](https://tech-explorer-riyaaa.github.io/Riya-Ahlawat-Developer-Portfolio/)
+### 🔗 [Developer Portfolio Website](https://tech-explorer-riyaaa.github.io/Riya-Ahlawat-Developer-Portfolio/) ✨
 
 🚀 Open to discussions on tech, my journey, or random chit-chat on the Gen AI revolution! Thank you.
 
