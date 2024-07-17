@@ -4,13 +4,13 @@
 
 #### Tech-enthusiast passionate about learning and developing innovative projects. 🔥
 
-- 💡 BTech CSE-AI Sophomore @ IGDTUW, Delhi.
+- 💡 Third year BTech undergraduate student @ IGDTUW, Delhi.
   
 - ⚡ Proficient in C++, Python, Java, HTML, CSS, Javascript, and more.
 
 - 💻 Had completed projects in the fields of Web Development, Machine Learning, Flutter, and UI/UX.
   
-- 🔭 Ask me about Data Structures and Algorithms, Frontend Web Development, Intelligent Systems, and Data Science.
+- 🔭 Ask me about Data Structures and Algorithms, Frontend Web Development, Design and Analysis of Algorithms & more.
 
 - 🌱 Currently diving into Machine Learning, Backend Development, Gen AI, and more.
   
