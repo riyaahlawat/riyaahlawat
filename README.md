@@ -4,7 +4,7 @@
 
 #### Tech-enthusiast passionate about learning and developing innovative projects. 🔥
 
-- 💡 Third year BTech undergraduate student @ IGDTUW, Delhi.
+- 💡 Pre-final year BTech undergraduate student @ IGDTUW, Delhi.
   
 - ⚡ Proficient in C++, Python, Java, HTML, CSS, Javascript, and more.
 
@@ -18,9 +18,9 @@
 
 ## Let's Connect: ✨
 
-### 🔗 [LinkedIn Profile](https://www.linkedin.com/in/tech-explorer-riyaaa/) 🌟
+### 🔗 [LinkedIn Profile](https://www.linkedin.com/in/riyaahlawat/) 🌟
 
-### 🔗 [Developer Portfolio Website](https://tech-explorer-riyaaa.github.io/Riya-Ahlawat-Developer-Portfolio/) ✨
+### 🔗 [Developer Portfolio Website](https://riyaahlawat.github.io/Riya-Ahlawat-Developer-Portfolio/) ✨
 
 🚀 Open to discussions on tech, my journey, or random chit-chat on the Gen AI revolution! Thank you.
 
