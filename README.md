@@ -24,6 +24,8 @@
 
 🚀 Open to discussions on tech, my journey, or random chit-chat on the Gen AI revolution! Thank you.
 
+[![An image of @riyaahlawat's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/riyaahlawat)](https://holopin.io/@riyaahlawat)
+
 <!--
 **tech-explorer-riyaaa/tech-explorer-riyaaa** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
