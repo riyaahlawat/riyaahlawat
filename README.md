@@ -20,8 +20,6 @@
 
 ### 🔗 [LinkedIn Profile](https://www.linkedin.com/in/riyaahlawat/) 🌟
 
-### 🔗 [Developer Portfolio Website](https://riyaahlawat.github.io/Riya-Ahlawat-Developer-Portfolio/) ✨
-
 🚀 Open to discussions on tech, my journey, or random chit-chat on the Gen AI revolution! Thank you.
 
 
